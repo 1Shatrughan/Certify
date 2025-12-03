@@ -30482,12 +30482,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x66E055fBB9080B3ffB98799b75cbA9F5D183264e",
-      "transactionHash": "0xea3e475f7002eda304585548b0e7dde15e1e7c552a01ad618af1e8ee8f751332"
+      "address": "0x7926C83681fD9566e5C0dC3b861EE7d41A423892",
+      "transactionHash": "0x59fe412e327eb864edd029333cac9a66c047319450dec339ffb8e0b3510c4c8b"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-12-02T06:44:18.498Z",
+  "updatedAt": "2025-12-03T02:00:03.029Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
